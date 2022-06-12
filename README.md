@@ -1,7 +1,7 @@
 <h1 align="center">Hi, This is Sabry👋<h1>
-- I am a junior computer science student👨‍💻
-- 👀 I’m interested in Data science and Machine learning.
-- 🌱 I’m currently learning IBM data science profissional certificate.
+- I am a junior computer science student👨‍💻<br>
+- 👀 I’m interested in Data science and Machine learning.<br>
+- 🌱 I’m currently learning IBM data science profissional certificate.<br>
 - 📫 How to reach me:
   <p align="center">
     <a href="https://twitter.com/itsSabrry"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
