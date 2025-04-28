@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="undraw_programming_65t2.svg" width="250" alt="Illustration of coding" />
+  <img src="undraw_developer-activity_dn7p.svg" width="250" alt="Illustration of coding" />
   <h1><span style="color: #FF69B4;">🚀</span> Hey, I’m Sabry! <span style="color: #FF69B4;">🚀</span></h1>
   <p><em>"Building data highways with a splash of code!"</em> <span style="color: #00CED1;">⚙️</span></p>
 </div>
